@@ -1,7 +1,7 @@
 # Проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сашка Рудивицкая](https://up.htmlacademy.ru/ecmascript/13/user/835389).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Колодеев](https://htmlacademy.ru/profile/id436983).
 
 ---
 
